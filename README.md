@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+                         boing         boing         boing
+              e-e           . - .         . - .         . - .
+             (\_/)\       '       `.   ,'       `.   ,'       .
+              `-'\ `--.___,         . .           . .          .
+                 '\( ,_.-'
+                    \\               "             "            
+                    ^'
 <!--
 **sunnysid3up/sunnysid3up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
